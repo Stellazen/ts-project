@@ -1,2 +1,2 @@
 # ts-project
-Projeto de estudo de TipeScript
+Projeto de estudo de TypeScript
