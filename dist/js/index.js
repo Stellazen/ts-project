@@ -11,3 +11,7 @@ const usuario = {
     }
 };
 console.log(pickProperty(usuario, 'age'));
+const video = {
+    title: 'Usando TypeScript',
+    duration: 180,
+};
